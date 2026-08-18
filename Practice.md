@@ -1001,3 +1001,6 @@
 Practice.md
 Testing.md
 test.md
+Practice.md
+Testing.md
+test.md
