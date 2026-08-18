@@ -998,3 +998,6 @@
  1960  cd Practice_GitHubCommands/
  1961  ls
  1962  history > Practice.md 
+Practice.md
+Testing.md
+test.md
