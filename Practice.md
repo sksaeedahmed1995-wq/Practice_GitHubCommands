@@ -1012,3 +1012,7 @@ Practice.md
 put.sh
 Testing.md
 test.md
+Practice.md
+put.sh
+Testing.md
+test.md
