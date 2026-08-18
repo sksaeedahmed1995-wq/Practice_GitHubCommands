@@ -1001,6 +1001,14 @@
 Practice.md
 Testing.md
 test.md
+<<<<<<< HEAD
 Practice.md
+Testing.md
+test.md
+=======
+Your new line of commit practicet
+>>>>>>> cb7fd427c014a1fc85a1e1a2141887d7b014c3c7
+Practice.md
+put.sh
 Testing.md
 test.md
